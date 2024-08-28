@@ -1,0 +1,50 @@
+
+[
+    {
+      "id": 1,
+      "name": "Item 1",
+      "images": [
+        "img/iphone15.jpg",
+        "img/iphone-15.jpg",
+        "images/item1-3.jpg",
+        "images/item1-4.jpg",
+        "images/item1-5.jpg"
+      ],
+      "description": "Description of item 1.",
+      "price": 19.99,
+      "details": "Detailed information about item 1.",
+      "video": "videos/video1.webm"
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "images": [
+        "img/iphone-15.jpg",
+       "img/iphone15.jpg",
+        "images/item2-3.jpg",
+        "images/item2-4.jpg",
+        "images/item2-5.jpg"
+      ],
+      "description": "Description of item 2.",
+      "price": 29.99,
+      "details": "Detailed information about item 2.",
+      "video": "videos/item2.mp4"
+    },
+    {
+        "id": 2,
+        "name": "Item 2",
+        "images": [
+          "img/iphone15.jpg",
+          "images/item2-2.jpg",
+          "images/item2-3.jpg",
+          "images/item2-4.jpg",
+          "images/item2-5.jpg"
+        ],
+        "description": "Description of item 2.",
+        "price": 29.99,
+        "details": "Detailed information about item 2.",
+        "video": "videos/item2.mp4"
+      }
+    
+  ]
+  
